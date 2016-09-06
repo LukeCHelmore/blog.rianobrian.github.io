@@ -10,4 +10,4 @@ AAA
 
 ### Contact me
 
-[rian@rianobrian.me)[mailto:rian@rianobrian.me)
+[rian@rianobrian.me](mailto:rian@rianobrian.me)
