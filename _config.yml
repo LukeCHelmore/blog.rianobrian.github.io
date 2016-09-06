@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: RianOBlog
+name: RianOBrian Blog | RianOBlog
 
 # Short bio or description (displayed in the header)
 description: Mediocre and Avid Developer
@@ -18,7 +18,7 @@ avatar: https://avatars3.githubusercontent.com/u/14948428?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rian@rianobrian.me
   facebook:
   flickr:
   github: RianOBrian
@@ -28,8 +28,8 @@ footer-links:
   rss: rss for the win
   twitter: r1anobr1an
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: channel/UCf0u7abHUcz5yzjy9Uw6Wkg
+  googleplus: u/1/102436765508550145412
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
